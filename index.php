@@ -16,6 +16,7 @@
     <div class="container">
       <h1>Milestone 1</h1>
       <canvas id="myChart"></canvas>
+      <canvas id="myChart2"></canvas>
     </div>
   </body>
 </html>
